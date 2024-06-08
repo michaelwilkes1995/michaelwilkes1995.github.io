@@ -3122,7 +3122,7 @@ input, select, textarea {
 
 			.spotlights > section > .image {
 				height: 50vh;
-				min-height: 15em;
+				min-height: 1em;
 			}
 
 			.spotlights > section > .content {
