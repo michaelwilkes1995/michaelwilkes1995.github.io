@@ -2379,7 +2379,7 @@ input, select, textarea {
 	}
 
 		body.is-ie textarea {
-			min-height: 10em;
+			min-height: 1em;
 		}
 
 	input[type="checkbox"],
